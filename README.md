@@ -17,6 +17,7 @@ The implementation operates on clauses written in Conjunctive Normal Form (CNF) 
 
 The repository is organized as follows:
 
+```
 resolution-based-theorem-prover/
 ├── examples/
 │ ├── cooking/
@@ -39,6 +40,7 @@ resolution-based-theorem-prover/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+```
 
 The src directory contains the full implementation. The examples directory contains input files for both resolution mode and cooking mode.
 
